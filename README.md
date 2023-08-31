@@ -2,8 +2,9 @@
 
 Menggali Lebih Dalam tentang Situs Live Streaming Bola Ole Live
 <div align='center'>
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
-[situs-live-streaming-bola-ole.jpg](https://postimg.cc/kVrXmCBL)
+
+[![situs-live-streaming-bola-ole.jpg](https://i.postimg.cc/0Nj672x5/situs-live-streaming-bola-ole.jpg)](https://olesiaranbola.com/)
+
 <h1>Situs Live Streaming Bola</h1>
 <h4> <a href=https://olesiaranbola.com/>Situs Live Streaming Bola</a> <span> · </span> <a href="https://github.com/Ole live/https://github.com/olelive/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/Ole live/https://github.com/olelive/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/Ole live/https://github.com/olelive/issues"> Request Feature </a> </h4>
 
@@ -34,7 +35,7 @@ Rekaman Pertandingan: Selain menyediakan live streaming, Ole Live juga seringkal
 
 Beragam Liga dan Kompetisi: Ole Live tidak hanya fokus pada liga-liga besar, tetapi juga menawarkan pertandingan dari berbagai liga dan kompetisi di seluruh dunia. Ini memberikan pilihan yang lebih luas bagi pengguna untuk memilih pertandingan yang ingin mereka saksikan.
 
-Manfaat <a href=https://olesiaranbola.com/>Ole Live Tv</a> Bagi Penggemar Sepak Bola 
+Manfaat Ole Live Bagi Penggemar Sepak Bola
 
 Akses Global: Ole Live mengatasi batasan geografis, memungkinkan penggemar sepak bola di seluruh dunia untuk menonton tim dan pemain favorit mereka tanpa harus pergi ke stadion.
 
